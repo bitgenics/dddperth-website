@@ -4,3 +4,6 @@ out
 yarn-error.log
 npm-debug.log
 tmp.json
+
+.fab
+fab.zip
