@@ -20,7 +20,7 @@
     "@emotion/core": "^10.0.10",
     "@emotion/is-prop-valid": "^0.7.3",
     "@emotion/styled": "^10.0.10",
-    "@fab/nextjs": "^0.2.0",
+    "@fab/nextjs": "^0.3.0",
     "@fab/serve": "^0.2.2",
     "applicationinsights": "^1.2.0",
     "emotion-theming": "^10.0.10",

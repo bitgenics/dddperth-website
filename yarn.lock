@@ -857,10 +857,10 @@
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.2.tgz#63985d3d8b02530e0869962f4da09142ee8e200e"
   integrity sha512-n/VQ4mbfr81aqkx/XmVicOLjviMuy02eenSdJY33SVA7S2J42EU0P1H0mOogfYedb3wXA0d/LVtBrgTSm04WEA==
 
-"@fab/compile@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@fab/compile/-/compile-0.3.0.tgz#af7ea50192f864b93ced4054d832aa26d594161f"
-  integrity sha512-XFruu57R+afZOVQgSfRApFVaoGRBP0LGPZnLZo+77UemjnmFihRkWpruP/8Nb+4nuE2ycyf4M1zhhvlgh5Af7w==
+"@fab/compile@0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@fab/compile/-/compile-0.3.1.tgz#2388829c087dff64f9dd6a15cac641ae531ccd01"
+  integrity sha512-KybUiCi2RJlviYwdOC1w6xHsnVOukLKFSyPFPOqdWZIJaGRewg+otedAfG9K4SsywB9trhjL6qfjZCDXhsO4pg==
   dependencies:
     "@oclif/command" "^1"
     "@oclif/config" "^1"
@@ -879,12 +879,12 @@
     typescript "^3.3.1"
     webpack "^4.29.0"
 
-"@fab/nextjs@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@fab/nextjs/-/nextjs-0.2.0.tgz#eb5cd88f0daf16383951ee2a0723d01613c9ca53"
-  integrity sha512-6qLHqgodKsLAz5miqFbgUkgwPBkL89hi/fMGT4KY7kyAMcthSHyyXqSQfx0sYtRxRGghtSIRfjLzfaDzdCEdjQ==
+"@fab/nextjs@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@fab/nextjs/-/nextjs-0.3.0.tgz#fdbd0cc9b2a03c371a829067e1906e8661d81141"
+  integrity sha512-aiQ0w3y0GY8uRfVlC8ykjWMahGRGC4PEOitvRLLje/acpj6UEcyPqvS3a5fRbFCBQFJIiWWcv8gj9w1X/HpcdA==
   dependencies:
-    "@fab/compile" "^0.3.0"
+    "@fab/compile" "0.3.1"
     "@oclif/command" "^1"
     "@oclif/config" "^1"
     "@oclif/plugin-help" "^2"
